@@ -1,6 +1,6 @@
 import '../SobreSec1.css';
 
-function SobreSec1() {
+function HeaderSobre() {
   const handleContatoClick = () => {
     window.location.href = '/contato';
   };
@@ -22,4 +22,4 @@ function SobreSec1() {
   );
 }
 
-export default SobreSec1;
+export default HeaderSobre;

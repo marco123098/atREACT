@@ -1,9 +1,10 @@
+import BodyContato from "../components/BodyContato";
 
 
 function Contato() {
    return (
     <>
-    Bomboclat
+    <BodyContato />
     </>
   )
 }

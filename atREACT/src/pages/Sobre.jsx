@@ -1,12 +1,11 @@
-import SobreSec1 from "../components/SobreSec1";
-import SobreSec2 from "../components/SobreSec2"
-
+import FooterSobre from "../components/FooterSobre";
+import HeaderSobre from "../components/HeaderSobre";
 
 function Sobre() {
    return (
     <>
-    <SobreSec1/>
-    <SobreSec2/>
+    <HeaderSobre/>
+    <FooterSobre/>
     
     </>
  

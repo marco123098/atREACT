@@ -1,6 +1,6 @@
-import '../Section1.css'
+import '../Header.css'
 
-function Section1() {
+function Header() {
 
   const handleContatoClick = () => {
     window.location.href = '/contato';
@@ -24,4 +24,4 @@ return (
   );
 }
 
-export default Section1;
+export default Header;
