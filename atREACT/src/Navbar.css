@@ -1,0 +1,22 @@
+header {
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #333;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    font-style: none;
+    font-size: 1.4rem;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:active{
+    text-decoration: underline;
+}
